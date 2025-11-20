@@ -20,24 +20,46 @@ class User(db.Model, UserMixin):
 
 class FavoriteProduct(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(200), nullable=False)
-    price = db.Column(db.String(50), nullable=False)
-    image = db.Column(db.String(500), nullable=True)
-    link = db.Column(db.String(500), nullable=True)
 
-    # Relația cu User (un utilizator poate avea mai multe favorite)
     user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)
+    product_id = db.Column(db.Integer, db.ForeignKey('product.id'), nullable=False)
+
     user = db.relationship('User', backref=db.backref('favorites', lazy=True))
+    product = db.relationship('Product', backref=db.backref('favorited_by', lazy=True))
 
     def __repr__(self):
-        return f'<FavoriteProduct {self.name}>'
+        return f'<FavoriteProduct user={self.user_id} product={self.product_id}>'
+
     
 class PriceAlert(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
-    product_name = db.Column(db.String(255))
-    initial_price = db.Column(db.Float)  # prețul de referință
-    link = db.Column(db.Text)
-    image = db.Column(db.Text)
-    active = db.Column(db.Boolean, default=True)
+    id         = db.Column(db.Integer, primary_key=True)
+    user_id    = db.Column(db.Integer, db.ForeignKey('user.id'),  nullable=False)
+    product_id = db.Column(db.Integer, db.ForeignKey('product.id'), nullable=False)
 
+    initial_price = db.Column(db.Float)
+    active        = db.Column(db.Boolean, default=True)
+
+    # legături inverse (NU backref din nou!)
+    product = db.relationship("Product", back_populates="price_alerts")
+    user    = db.relationship("User",   backref="price_alerts")   # ăsta e ok
+
+
+class Product(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(255), nullable=False)
+    price = db.Column(db.Float, nullable=True)
+    image = db.Column(db.String(500), nullable=True)
+    link = db.Column(db.String(1000), unique=True, nullable=False)
+    specs = db.Column(db.Text, nullable=True)
+    domain = db.Column(db.String(255), nullable=True)
+    currency = db.Column(db.String(10), nullable=True)  # <– AICI
+
+
+
+    # un produs → multe alerte
+    price_alerts = db.relationship(
+        "PriceAlert",
+        back_populates="product",
+        lazy=True,
+        cascade="all, delete-orphan"
+    )

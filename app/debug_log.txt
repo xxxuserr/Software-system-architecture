@@ -1,0 +1,4937 @@
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  jblstore.md – eroare price: Pseudo-element found at position 22
+❌  maximum.md – eroare price: Pseudo-element found at position 22
+❌  eshop.moldcell.md – eroare price: Pseudo-element found at position 22
+❌  pandashop.md – eroare price: Pseudo-element found at position 22
+❌  ultra.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  maximum.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  orange.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  xstore.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+✅ test – funcţia scrie
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/audio/boxe/boxe-portabile/jbl-flip-6-30w-black
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/portable-speakers-jbl-flip-6-red
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/smart-objects-/toate-smart-objects/boxa-portabila-jbl-flip-6.html
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  darwin.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+❌  gorilla.md – eroare price: Pseudo-element found at position 22
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+❌ Eroare SerpAPI: HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=5)
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-pro-max-256gb.html
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/telefoane/smartphone-uri/apple-iphone-15-pro-max-8gb-256gb-natural-titanium
+⚠️  breezy.md – preț lipsă în https://breezy.md/smartphone/vendor=apple/series=iphone-15-pro-max
+⚠️  ispace.md – preț lipsă în https://ispace.md/category/iphone-15-pro-max
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-pro-max-512gb.html
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+❌ Eroare SerpAPI: HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=5)
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-256gb.html
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12512gb-black
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-12gb-256gb-titanium-black
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12256gb-black
+⚠️  samsungstore.md – preț lipsă în https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+❌ Eroare SerpAPI: HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=5)
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s25-ultra-512gb.html
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s25-ultra-256gb-titanium-grey
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s25-ultra-512gb.html
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s25-ultra-256gb-titanium-grey
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s25/samsung-galaxy-s25-ultra
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s938-s25-ultra-12512-titanium-silver-blue
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s938-s25-ultra-12256-titanium-silver-blue
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+✅ test – funcţia scrie
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s938-s25-ultra-12256-titanium-black
+⚠️  blago.md – preț lipsă în https://www.blago.md/ro/catalog/smartphones/samsung-galaxy-s25-ultra-12-1t
+⛔ conex.md – produs indisponibil prin text: https://conex.md/telefoane-%C8%99i-gadgeturi/telefoane-mobile/samsung-galaxy-s25-ultra-12gb-256gb-titanium-black/
+❌  conex.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s938-s25-ultra-121tb-titanium-black
+⛔ smarti.md – produs indisponibil prin text: https://smarti.md/telefoane-i-gadgeturi/telefoane-mobile/samsung-galaxy-s25-ultra-12gb-256gb-titanium-black/
+❌  smarti.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+✅ test – funcţia scrie
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+⛔ ispace.md – produs indisponibil prin text: https://ispace.md/mac/macbook-air
+❌  ispace.md – eroare price: Produs indisponibil sau stoc epuizat
+❌  orange.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+⚠️  istore.md – preț lipsă în https://istore.md/mac/macbook/macbook-air
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/product-category/notebook/apple-notebook/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+❌  enter.online – eroare price: extract_price() missing 1 required positional argument: 'soup'
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+❌  orange.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+❌  xstore.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+❌  maximum.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+❌  darwin.md – eroare price: extract_price() missing 1 required positional argument: 'soup'
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-256gb.html
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12512gb-black
+⚠️  alo.md – preț lipsă în https://alo.md/ro/samsung-galaxy-s24-ultra
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-12gb-256gb-titanium-black
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⛔ ultra.md – produs indisponibil prin text: https://ultra.md/promo/samsung-galaxy-s24-i--s24-i-s24-ultra
+❌  ultra.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12256gb-black
+⚠️  samsungstore.md – preț lipsă în https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+❌ Eroare SerpAPI: HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=5)
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-256gb.html
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12512gb-black
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-12gb-512gb-titanium-black
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12256gb-black
+⚠️  samsungstore.md – preț lipsă în https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-s24-ultra-galaxy-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-256gb.html
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12512gb-black
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-12gb-512gb-titanium-black
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12256gb-black
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-256gb.html
+⚠️  samsungstore.md – preț lipsă în https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12512gb-black
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-s24-ultra-galaxy-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-12gb-512gb-titanium-black
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12256gb-black
+⚠️  samsungstore.md – preț lipsă în https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-s24-ultra-galaxy-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-galaxy-s25-ultra-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-256gb.html
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12512gb-black
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-12gb-512gb-titanium-black
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12256gb-black
+⚠️  samsungstore.md – preț lipsă în https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-s24-ultra-galaxy-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ ultra.md – produs indisponibil prin text: https://ultra.md/promo/samsung-galaxy-s24-i--s24-i-s24-ultra
+❌  ultra.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  alo.md – preț lipsă în https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s24-ultra-256gb-titanium-black
+⚠️  ultra.md – preț lipsă în https://ultra.md/ru/product/s928-s24-ultra-121tb-gray
+⚠️  blago.md – preț lipsă în https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12256gb-yellow
+⚠️  gsmshop.md – preț lipsă în https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoo2oj7UjSgXYkqMCXfnBcU3C5U0HyxFcoA4N46aXRF4soEOIvwG
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-121tb-gray
+⚠️  maximum.md – preț lipsă în https://maximum.md/ro/6810111/
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+❌ Eroare SerpAPI: HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=5)
+⚠️  eshop.moldcell.md – preț lipsă în https://eshop.moldcell.md/ro/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-12gb-512gb-titanium-black
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12256gb-black
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-s24-ultra-galaxy-12-256gb-titanium-black/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  alo.md – preț lipsă în https://alo.md/ro/samsung-galaxy-s24-ultra
+⚠️  gsmshop.md – preț lipsă în https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOopiGW9YjiiPIciEhfpoRviT0hjJEseQ6TPJANQG3A40c8weS_8-
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12256gb-gray
+⚠️  smart.md – preț lipsă în https://www.smart.md/ro/samsung-galaxy-s24-ultra-dual-sim-12512gb-5g-titanium-black
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⛔ ultra.md – produs indisponibil prin text: https://ultra.md/promo/samsung-galaxy-s24-i--s24-i-s24-ultra
+❌  ultra.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-12256gb-yellow
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/s928-s24-ultra-121tb-gray
+⚠️  maximum.md – preț lipsă în https://maximum.md/ro/6810111/
+⚠️  bomba.md – preț lipsă în https://bomba.md/ro/category/telefoane-mobile-686094/samsung/galaxy-s24-ultra/
+✅ test – funcţia scrie
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-pro-max-256gb.html
+⛔ breezy.md – produs indisponibil prin text: https://breezy.md/smartphone/vendor=apple/series=iphone-15-pro-max
+❌  breezy.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  alo.md – preț lipsă în https://alo.md/ro/iphone-15-pro-max
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/iphone-15-pro-max-256gb-black-titanium/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/iphone-15-pro-max-256g-black-titanium/
+⚠️  istore.md – preț lipsă în https://istore.md/iphone/iphone-16e
+⚠️  ultra.md – preț lipsă în https://ultra.md/promo/iphone-15-pro-si-iphone-15-pro-max
+⚠️  xstore.md – preț lipsă în https://xstore.md/apple/iphone/apple-iphone-15-pro-max-256gb-natural
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-pro-max-256gb.html
+⛔ breezy.md – produs indisponibil prin text: https://breezy.md/smartphone/vendor=apple/series=iphone-15-pro-max
+❌  breezy.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  alo.md – preț lipsă în https://alo.md/ro/iphone-15-pro-max
+⚠️  istore.md – preț lipsă în https://istore.md/iphone/iphone-16e
+⚠️  ultra.md – preț lipsă în https://ultra.md/promo/iphone-15-pro-si-iphone-15-pro-max
+⚠️  xstore.md – preț lipsă în https://xstore.md/apple/iphone/apple-iphone-15-pro-max-256gb-natural
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⛔ breezy.md – produs indisponibil prin text: https://breezy.md/smartphone/vendor=apple/series=iphone-15-pro-max
+❌  breezy.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  jblstore.md – preț lipsă în https://jblstore.md/ro/jbl-flip-6
+⚠️  maximum.md – preț lipsă în https://maximum.md/ro/6453284/
+⚠️  pandashop.md – preț lipsă în https://www.pandashop.md/ro/product/portativnaja-akustika-jbl-flip-6-black-00579860/
+⚠️  ultra.md – preț lipsă în https://ultra.md/product/portable-speakers-jbl-flip-6-grey
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/smart-objects-/toate-smart-objects/boxa-portabila-jbl-flip-6.html
+⚠️  blago.md – preț lipsă în https://www.blago.md/ru/catalog/boxe323/boxa-portabila-jbl-flip-6
+⚠️  xstore.md – preț lipsă în https://xstore.md/audio/boxe-portabile/jbl-flip-6-teal
+⚠️  geek.md – preț lipsă în https://geek.md/md/jbl-flip-6-black-jblflip6blkeu-30-w-boxa-portabila-30-w?srsltid=AfmBOooMZgh9FgCQCCoObWUB7Vb-_qcz4cwm_5CzWXWBgbjOPT7hGRqQ
+⚠️  orange.md – preț lipsă în https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-galaxy-8-128gb-marble-grey/
+⛔ gorilla.md – produs indisponibil prin text: https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/
+❌  gorilla.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  alo.md – preț lipsă în https://alo.md/ro/samsung-galaxy-s24
+⛔ breezy.md – produs indisponibil prin text: https://breezy.md/smartphone/vendor=samsung/series=galaxy-s24
+❌  breezy.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  blago.md – preț lipsă în https://www.blago.md/ro/catalog/smartphones/samsung-galaxy-s24?product=parameters
+⚠️  gsmshop.md – preț lipsă în https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoo6ysTFsIZM376RYlFr_cO3g9jw-9p5MfhJUPBnW8yg4TdXpjVa
+⚠️  bomba.md – preț lipsă în https://bomba.md/ro/category/telefoane-mobile-686094/samsung/galaxy-s24-fe/
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⚠️  gsmshop.md – preț lipsă în https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOooqPxNaDBj2RUnL0z6vFmKanpKvalv7Tfee_jNkYgZwOrIk_5z5
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⚠️  xstore.md – preț lipsă în https://xstore.md/telefoane/smartphone/samsung-galaxy-s24-ultra-titanium-violet-12-gb-256gb
+⚠️  pandashop.md – preț lipsă în https://www.pandashop.md/ro/catalog/electronics/telephones/mobile/?Texts=15417_356966
+⚠️  samsungstore.md – preț lipsă în https://samsungstore.md/ru/smartfon-samsung-galaxy-s24-ultra-12-gb-512-gb-titanium-black
+⚠️  riolitsistem.md – preț lipsă în https://riolitsistem.md/ro/roothometelefoane-mobiletelefoane-mobile-samsung/448662-smartphone-samsung-galaxy-s24-ultra-12gb-512gb-titanium-black.html
+⚠️  plug.md – preț lipsă în https://plug.md/ru/product/galaxy-s24-ultra-2/
+⚠️  atehno.md – preț lipsă în https://atehno.md/products/samsung-galaxy-s24-ultra-12512gb-5g-titanium-black-68-dynamic-amoled-2x-1440x3120-nanosim-dual-qualcomm-sm8650ac-snapdragon-8-gen-3-4-nm-octa-core-1x-33ghz-cortexx4-3x-315ghz-co-9857901673083
+⚠️  texet.md – preț lipsă în https://www.texet.md/ro/product/view/samsunggalaxys24ultra256gbblack.html
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+❌ Eroare SerpAPI: HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=5)
+⚠️  gorilla.md – preț lipsă în https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️  gsmshop.md – preț lipsă în https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️  smart.md – preț lipsă în https://www.smart.md/ro/apple-iphone-15
+⛔ ispace.md – produs indisponibil prin text: https://ispace.md/category/iphone-15-pro-max
+❌  ispace.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  maximum.md – preț lipsă în https://maximum.md/ru/6744060/
+⚠️  blago.md – preț lipsă în https://www.blago.md/ro/catalog/iphone/iphone-15-pro-max
+⚠️  gsmshop.md – preț lipsă în https://www.gsmshop.md/ro/product/view/appleiphone15promax256gbblack.html?srsltid=AfmBOoo7_vM02i-IdYhk8nunzSPfXZG6s-OzOh7YuhIzVWeF-gNomlLe
+⚠️  bomba.md – preț lipsă în https://bomba.md/ro/category/telefoane-mobile-686094/apple/iphone-15-pro-max/
+⚠️  plug.md – preț lipsă în https://plug.md/produs/apple-iphone-15-pro-max-6/
+⚠️  mshop.md – preț lipsă în https://mshop.md/ro/product/iphone_15_pro_max_256gb_black_titanium_md/2185523
+⚠️  iphone15.md – preț lipsă în https://iphone15.md/ro/apple-new/apple-iphone-15-pro-max-256gb-ss-black-titanium
+⚠️  prime-pc.md – preț lipsă în https://prime-pc.md/products/apple-iphone-15-pro-max-256gb-black-titanium?srsltid=AfmBOop_viChrUkr-iTKO8P_bIioiHd2hnZcwewTqJA8mD3yOl4ANuTU
+⛔ pandashop.md – produs indisponibil prin text: https://www.pandashop.md/ro/product/-iphone-15-pro-max-256gb-natural-titanium-00718624/
+❌  pandashop.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-apple-iphone-15-pro-max-8gb512gb-black-titanium
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: specs
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⛔ uno.md – produs indisponibil prin text: https://uno.md/product/576764-smartphone-samsung-galaxy-s24-ultra-12gb-512gb-titanium-black?srsltid=AfmBOoqznjwSdf2xE7VygJis2BrNlS1A9uQTE2bLf-EEHa1JWTXSv2kT
+❌  uno.md – eroare price: Produs indisponibil sau stoc epuizat
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+🔍 Procesăm linkul: https://gorilla.md/produs/iphone-15-pro-max-256gb-black-titanium/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/iphone-15-pro-max-256g-black-titanium/
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/apple-iphone-15-pro-max
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/iphone-15-pro-max
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://istore.md/iphone/iphone-16e
+⚠️ Link incomplet [istore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/apple-iphone-15-pro-si-pro-max
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://breezy.md/smartphone/vendor=apple/series=iphone-15-pro-max
+⚠️ Link incomplet [breezy.md]:
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.smart.md/ro/apple-iphone-15
+⚠️ Link incomplet [smart.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://ispace.md/category/iphone-15-pro-max
+❌ Eroare la link [ispace.md]: 404 Client Error: Not Found for url: https://ispace.md/category/iphone-15-pro-max
+🔍 Procesăm linkul: https://maximum.md/ru/6744060/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 istore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 breezy.md
+   - price: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 smart.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 ispace.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://gorilla.md/produs/iphone-15-pro-max-256gb-black-titanium/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/iphone-15-pro-max-256g-black-titanium/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/apple-iphone-15-pro-max
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/iphone-15-pro-max
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://istore.md/iphone/iphone-16e
+⚠️ Link incomplet [istore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/apple-iphone-15-pro-si-pro-max
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://breezy.md/smartphone/vendor=apple/series=iphone-15-pro-max
+⚠️ Link incomplet [breezy.md]:
+   - lipsă: price
+   - lipsă: specs
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ e-catalog.md – produs indisponibil prin text: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+❌  e-catalog.md – eroare price: Produs indisponibil sau stoc epuizat
+🔍 Procesăm linkul: https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+🔍 Procesăm linkul: https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://samsungstore.md/noutati/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://alo.md/ro/samsung-6/samsung-galaxy-s24-ultra-12256-gb-titanium-black
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.blago.md/ru/catalog/smartphones/samsung-galaxy-s24-ultra
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://e-catalog.md/ro/smartphone-samsung-galaxy-s24-ultra-12gb256gb-titanium-black
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://maximum.md/ro/6810111/
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://gorilla.md/ru/product/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+🔍 Procesăm linkul: https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOoqbSEujF-gCvVmCp-PxNPqyLUVTipVFX3pGkvY2wlgxf9fdEsXB
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+✅ test – funcţia scrie
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+✅ test – funcţia scrie
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  gsmshop.md – preț lipsă în https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOopnODQs1HyBOD0Ytm2Is_gGt_97IFdt2yDcCLl6WjquBGytG3af
+⚠️  gsmshop.md – preț lipsă în https://www.gsmshop.md/ro/product/view/samsunggalaxys24ultra256gbblack.html?srsltid=AfmBOooESrxa2yXZt4nfLSJCE_3q_xQOUGYue-taM8nc-xRT9ueeJKM_
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+✅ test – funcţia scrie
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-256gb-titanium-violet/
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [cactus.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [samsungstore.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [blago.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [e-catalog.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+⚠️ Link incomplet [gorilla.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [maximum.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [gsmshop.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - image: 1 eroare(i)
+
+🔸 cactus.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 samsungstore.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 blago.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 e-catalog.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gorilla.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 maximum.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 gsmshop.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⚠️  enter.online – preț lipsă în https://enter.online/ru/telefony/smartfony/samsung-galaxy-s24
+⚠️  enter.online – preț lipsă în https://enter.online/ru/telefony/smartfony/samsung-galaxy-s24
+⚠️  breezy.md – preț lipsă în https://breezy.md/ru/smartphone/vendor=samsung/series=galaxy-s24
+⛔ breezy.md – produs indisponibil prin text: https://breezy.md/smartphone/vendor=samsung/series=galaxy-s24-ultra
+❌  breezy.md – eroare price: Produs indisponibil sau stoc epuizat
+⛔ breezy.md – produs indisponibil prin text: https://breezy.md/smartphone/vendor=samsung/series=galaxy-s24-ultra
+❌  breezy.md – eroare price: Produs indisponibil sau stoc epuizat
+⚠️  cactus.md – preț lipsă în https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-ultra-galaxy-12-512gb-titanium-black/
+✅ test – funcţia scrie
+✅ test – funcţia scrie
+⚠️  enter.online – preț lipsă în https://enter.online/telefoane/smartphone-uri/apple-iphone-17-pro-si-pro-max
+⚠️  alo.md – preț lipsă în https://alo.md/ro/iphone-17-pro-max
+⚠️  ispace.md – preț lipsă în https://ispace.md/category/iphone-series-17-pro
+⚠️ Link incomplet [darwin.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [enter.online]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [alo.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+⚠️ Link incomplet [ispace.md]:
+   - lipsă: image
+   - lipsă: price
+   - lipsă: specs
+===== RAPORT ERORI PE MAGAZINE =====
+📦 Probleme de extragere pe site-uri:
+
+🔸 darwin.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 enter.online
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 alo.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+🔸 ispace.md
+   - price: 1 eroare(i)
+   - image: 1 eroare(i)
+   - specs: 1 eroare(i)
+
+====================================

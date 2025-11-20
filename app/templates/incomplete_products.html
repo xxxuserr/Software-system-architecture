@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block title %}Produse Incomplete{% endblock %}
+
+{% block content %}
+<h2>Produse cu date lipsă</h2>
+
+{% if products %}
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nume</th>
+            <th>Preț</th>
+            <th>Imagine</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for p in products %}
+        <tr>
+            <td>{{ p.id }}</td>
+            <td>{{ p.name }}</td>
+            <td>{{ p.price or '❌' }}</td>
+            <td>
+                {% if p.image %}
+                    ✅
+                {% else %}
+                    ❌
+                {% endif %}
+            </td>
+            <td><a href="{{ p.link }}" target="_blank">Vezi</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% else %}
+<p>Toate produsele sunt complete ✅</p>
+{% endif %}
+{% endblock %}

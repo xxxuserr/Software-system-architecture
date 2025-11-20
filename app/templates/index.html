@@ -1,63 +1,127 @@
 {% extends "base.html" %}
 
-{% block title %}Pagina Principală - PRICER{% endblock %}
+{% block title %}Pagina principală – PRICER{% endblock %}
 
 {% block content %}
-    <div class="main-content">
-        <div class="search-container">
-            <input type="text" id="search" placeholder="Caută un produs..." required>
-            <button type="button" id="searchButton">Caută</button>
+<div class="main-content">
 
-            <!-- Butoane Favorite + Profil/Login -->
-            <div class="icon-buttons">
-                <a href="{{ url_for('favorites') }}" class="fav-icon">
-                    <i class="fas fa-heart"></i>
+    <!-- SEARCH BAR -->
+    <div class="search-container">
+        <input type="text"
+            id="search"
+            placeholder="Caută un produs…"
+            autocomplete="off"
+            required>
+
+        <button type="button" id="searchButton">Caută</button>
+
+        <div class="icon-buttons">
+            <a href="{{ url_for('favorites') }}" class="fav-icon">
+                <i class="fas fa-heart"></i>
+            </a>
+
+            {% if current_user.is_authenticated %}
+                <a href="{{ url_for('profile') }}" class="auth-icon">
+                    <i class="fas fa-user"></i>
+                </a>
+            {% else %}
+                <a href="{{ url_for('login') }}" class="auth-icon">
+                    <i class="fas fa-user"></i>
+                </a>
+            {% endif %}
+        </div>
+    </div>
+
+    <!-- SORTAREA – ascunsă implicit -->
+    <div id="sort-wrapper" class="sort-container hidden">
+        <label for="sort">Sortează după:</label>
+        <select id="sort">
+            <option value="recommended">Recomandate</option>
+            <option value="price_asc">Preț crescător</option>
+            <option value="price_desc">Preț descrescător</option>
+        </select>
+    </div>
+
+    <!-- BANNER dacă NU sunt rezultate -->
+    {% if not products %}
+    <div id="banner">
+        <img src="{{ url_for('static', filename='img/banner-pricer.png') }}" alt="PRICER banner" class="banner-img">
+    </div>
+    {% endif %}
+
+    <!-- Loader -->
+    <div id="loader" class="loader hidden"></div>
+
+    <!-- LISTA PRODUSE -->
+    <ul id="productList">
+        {% for product in products %}
+            {% if product.image and product.price %}
+            <li class="product-card" id="card-{{ product.id }}">
+
+                <a href="{{ url_for('product_detail', product_id=product.id) }}" class="product-image-container">
+                    <img src="{{ product.image }}" alt="{{ product.name }}">
                 </a>
 
-                {% if current_user.is_authenticated %}
-                    <a href="{{ url_for('profile') }}" class="auth-icon">
-                        <i class="fas fa-user"></i>
-                    </a>
-                {% else %}
-                    <a href="{{ url_for('login') }}" class="auth-icon">
-                        <i class="fas fa-user"></i>
-                    </a>
-                {% endif %}
-            </div>
-        </div>
+                <button class="fav-button"
+                        onclick="toggleFavorite(this)"
+                        data-product-id="{{ product.id }}">
+                    <i class="fa fa-heart"></i>
+                </button>
 
-        <div id="loader" class="hidden"></div>
-
-        <ul id="productList">
-            {% for product in products %}
-            <li class="product-card">
-                <div class="product-image-container">
-                    <img src="{{ product.image_url }}" alt="{{ product.name }}"
-                        onerror="this.onerror=null; this.src='/static/img/placeholder.png'; console.log('Eroare la încărcarea imaginii:', this.src)">
-        
-                    <button class="fav-button" onclick="toggleFavorite('{{ product.name }}')">
-                        <i class="fas fa-heart"></i>
-                    </button>
-                </div>
-                
                 <div class="product-details">
                     <strong class="product-title">
-                        <a href="{{ product.link }}" target="_blank">{{ product.name }}</a>
+                        <a href="{{ url_for('product_detail', product_id=product.id) }}"
+                        style="color: #000; text-decoration: none; font-weight: 600;">
+                            {{ product.name }}
+                        </a>
                     </strong>
-                    <p class="product-specs">{{ product.specs }}</p>
+
                     <span class="price">
-                        {% if product.price %}
-                            {{ product.price }} lei
-                        {% else %}
-                            <span style="color: red;">Preț necunoscut</span>
-                        {% endif %}
+                        {{ "%.2f"|format(product.price) }} {{ product.currency or "" }}
                     </span>
+
+                    {% if product.domain %}
+                    <div class="store-logo">
+                        <img src="/static/img/{{ product.domain }}.png" alt="{{ product.domain }}"
+                            onerror="this.style.display='none'">
+                    </div>
+                    {% endif %}
                 </div>
             </li>
-            {% endfor %}
-        </ul>
-        
+            {% endif %}
+        {% endfor %}
+    </ul>
 
-        <p class="no-results" id="noResultsMessage"></p>
-    </div>
+    <button id="loadMoreButton" class="hidden">Încarcă mai multe</button>
+
+    <p id="noResultsMessage" class="no-results"></p>
+</div>
+
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+<script>
+    // ➤ Arătăm sortarea DOAR după ce apar produse
+    const productList = document.getElementById("productList");
+    const sortWrapper = document.getElementById("sort-wrapper");
+
+    function updateSortVisibility() {
+        if (productList.children.length > 0) {
+            sortWrapper.classList.remove("hidden");
+        } else {
+            sortWrapper.classList.add("hidden");
+        }
+    }
+
+    // rulează după încărcare
+    updateSortVisibility();
+
+    // rulează dinamic când JS adaugă produse
+    const observer = new MutationObserver(updateSortVisibility);
+    observer.observe(productList, { childList: true });
+</script>
+
+<style>
+    .hidden { display: none !important; }
+</style>
+
 {% endblock %}

@@ -9,75 +9,78 @@
 {% block content %}
 <script src="{{ url_for('static', filename='js/script.js') }}"></script>
 
-    <div class="profile-container">
-        <!-- Sidebar -->
-        <aside class="sidebar">
-            <div class="user-info">
-                <img src="{{ url_for('static', filename='img/avatar_icon.png') }}" alt="Avatar" class="avatar-icon">
-                <h2 class="user-name">{{ current_user.username }}</h2>
-                <p class="user-email">{{ current_user.email }}</p>
-            </div>
-        
-            <nav class="menu">
-                <ul>
-                    <li>
-                        <a href="{{ url_for('profile') }}" class="{% if request.path == url_for('profile') %}active{% endif %}">
-                            <i class="fas fa-user"></i> Cabinet personal
-                        </a>
-                    </li>
-                    <li>
-                        <a href="{{ url_for('favorites') }}" class="{% if request.path == url_for('favorites') %}active{% endif %}">
-                            <i class="fas fa-heart"></i> Lista de preferințe
-                        </a>
-                    </li>
-                    <li>
-                        <a href="{{ url_for('logout') }}" class="{% if request.path == url_for('logout') %}active{% endif %}">
-                            <i class="fas fa-sign-out-alt"></i> Ieșire
-                        </a>
-                    </li>
-                </ul>
-            </nav>
-        </aside>
+<div class="profile-container">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <div class="user-info">
+            <img src="{{ url_for('static', filename='img/avatar_icon.png') }}" alt="Avatar" class="avatar-icon">
+            <h2 class="user-name">{{ current_user.username }}</h2>
+            <p class="user-email">{{ current_user.email }}</p>
+        </div>
+    
+        <nav class="menu">
+            <ul>
+                <li>
+                    <a href="{{ url_for('profile') }}" class="{% if request.path == url_for('profile') %}active{% endif %}">
+                        <i class="fas fa-user"></i> Cabinet personal
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('favorites') }}" class="{% if request.path == url_for('favorites') %}active{% endif %}">
+                        <i class="fas fa-heart"></i> Lista de preferințe
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('logout') }}">
+                        <i class="fas fa-sign-out-alt"></i> Ieșire
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </aside>
 
-        <!-- Conținutul paginii de favorite -->
-        <main class="favorite">
-            <h1>Produse Favorite</h1>
-            <div class="favorites-grid">
-                {% if favorites %}
-                    {% for product in favorites %}
-                        <div class="favorite-item">
-                            <img src="{{ product.image }}" alt="{{ product.name }}">
-                            <div class="product-info">
-                                <strong><a href="{{ product.link }}" target="_blank">{{ product.name }}</a></strong><br>
-                                <span class="price">{{ product.price }} lei</span>
-                                <div class="alert-buttons">
-                                    {% if product.alert_active %}
-                                    <button class="btn-alert-deactivate"
-                                    onclick="disablePriceAlert('{{ product.link }}', event)">
-                                        🛑 Dezactivează alerta
-                                    </button>
-                                    {% else %}
-                                    <button class="btn-alert-activate"
-                                    onclick="setPriceAlert('{{ product.name }}', '{{ product.price }}', '{{ product.link }}', '{{ product.image }}', event)">
-                                        🔔 Activează alerta
-                                    </button>
-                                    {% endif %}
-                                </div>
-                                <button class="btn-remove" onclick="removeFromFavorites('{{ product.name }}')">❌ Elimină</button>
-                                
-                                <form id="alertForm" onsubmit="runAlertCheck(event)">
-                                    <button type="submit" class="check-alerts">🔄 Rulează verificarea alertelor</button>
-                                </form>
-                                
-                            </div>
+    <!-- Conținutul paginii de favorite -->
+    <main class="favorite">
+        <h1>Produse Favorite</h1>
+        <div class="favorites-grid">
+            {% if favorites %}
+                {% for product in favorites %}
+                <div class="favorite-item" data-product-id="{{ product.id }}">
+
+                    <a href="{{ url_for('product_detail', product_id=product.id) }}" style="text-decoration: none; color: inherit;">
+                        <img src="{{ product.image }}" alt="{{ product.name }}">
+                        <div class="product-info">
+                            <strong>{{ product.name }}</strong><br>
+                            <span class="price">
+                                {{ "%.2f"|format(product.price) }} {{ product.currency or "" }}
+                            </span>
+
                         </div>
-                    {% endfor %}
-                {% else %}
-                    <p class="no-favorites">Nu ai produse favorite.</p>
-                {% endif %}
-            </div>
-        </main>
-    </div>
+                    </a>
+                
+                    <div class="alert-buttons">
+                        {% if product.alert_active %}
+                            <button class="btn-alert-deactivate" onclick="disablePriceAlert('{{ product.id }}')">
+                                🛑 Dezactivează alerta
+                            </button>
+                        {% else %}
+                            <button class="btn-alert-activate" onclick="setPriceAlert('{{ product.id }}')">
+                                🔔 Activează alerta
+                            </button>
+                        {% endif %}
+                    </div>
+                
+                    <button class="btn-remove" onclick="removeFromFavorites('{{ product.id }}')">❌ Elimină</button>
+                </div>
+                
+                    </div>
+                {% endfor %}
+            {% else %}
+                <p class="no-favorites">Nu ai produse favorite.</p>
+            {% endif %}
+        </div>
+    </main>
+</div>
 
 <script>
     function runAlertCheck(event) {
