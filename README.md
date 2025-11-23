@@ -1,12 +1,12 @@
 #  PRICER – System Architecture Project
 
-PRICER este o aplicație web pentru căutarea și compararea prețurilor produselor din mai multe magazine online, construită folosind **arhitectură Layered (N-Tier)** și un modul de **Clean Architecture** pentru logica use-case-urilor.
+PRICER este o aplicație web pentru căutarea și compararea prețurilor produselor din mai multe magazine online, construită folosind **arhitectură Layered ** și un modul de **Clean Architecture** pentru logica use-case-urilor.
 
 ---
 
 ## 🏛️ Arhitectură
 
-### 🔸 Layered Architecture (N-Tier)
+### 🔸 Layered Architecture 
 Aplicația este structurată pe mai multe straturi:
 - **UI Layer** – paginile HTML/Jinja + interfața utilizator
 - **Application Layer** – rute Flask + orchestrare logică
